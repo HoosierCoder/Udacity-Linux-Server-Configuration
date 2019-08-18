@@ -353,10 +353,16 @@ The following prompt will be returned:
 * References
 
 	[Flask Deployment Documentation](https://flask.palletsprojects.com/en/1.1.x/deploying/)
+	
 	[Flask with Python3](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
+	
 	[AWS Documentation](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
+	
 	[Apache Server Documentation](https://httpd.apache.org/docs/)
+	
 	[Installing GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+	
 	[SQLAlchemy for Python3 Documentation and Overview](https://docs.sqlalchemy.org/en/13/intro.html)
+	
 	[PostgreSQL Installation and tips](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
 
