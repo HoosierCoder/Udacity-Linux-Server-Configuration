@@ -350,8 +350,8 @@ The following prompt will be returned:
 - Open your browser to http://52.88.238.171 or http://52.88.238.171.xip.io.
 
 
-*References
-```
+* References
+
 	[Flask Deployment Documentation](https://flask.palletsprojects.com/en/1.1.x/deploying/)
 	[Flask with Python3](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
 	[AWS Documentation](https://linoxide.com/linux-how-to/install-flask-python-ubuntu/)
@@ -359,4 +359,4 @@ The following prompt will be returned:
 	[Installing GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 	[SQLAlchemy for Python3 Documentation and Overview](https://docs.sqlalchemy.org/en/13/intro.html)
 	[PostgreSQL Installation and tips](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
-```
+
